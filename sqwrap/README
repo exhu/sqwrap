@@ -1,0 +1,2 @@
+Copy "myconfig.mk.templ" to "myconfig.mk" and edit variables in this file to
+match corresponding paths to squirrel-lang header and library files.
